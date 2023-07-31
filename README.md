@@ -35,6 +35,9 @@ Individuals who are looking to enter the real estate market may find it difficul
     - Redfin Scraper
     - Support Vector Machine (SVM)
     - CatBoostRegressor
+ 
+## Note
+This application uses the Zillow and Places API which need special permission from Bridge Interactive and Google Cloud. To gain access to Zillow APIs email api@bridgeinteractive.com, and for Google Maps APIs navigate to https://developers.google.com/maps. After gaining access, create a a folder in backend/flask and backend/ called secret.py. Additionally add a config.js file to frontend/src/app/dashboard/. To these files, add constants `export const BRIDGE_API` and `export const MAPS_API` and set them to the API keys that you have gotten approval for. 
 
 ## How to run the project
 HouseFlipper has not yet been deployed. For development, we use NPM to build and run the project locally. To run the project, follow these steps:
