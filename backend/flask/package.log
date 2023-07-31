@@ -1,0 +1,8 @@
+Jul-31-23 17:45:10: INFO - *****Beginning Log*****
+Jul-31-23 17:45:10: INFO - Function setup started.
+Jul-31-23 17:45:10: INFO - Function setup took 0.064125792006962 seconds.
+Jul-31-23 17:45:10: INFO - Function scrape started.
+Jul-31-23 17:45:10: WARNING - KEY ERROR: Zip Codes for ('Libertyville', 'IL') could not be found.
+Jul-31-23 17:45:12: INFO - Function scrape took 1.6229113330045948 seconds.
+Jul-31-23 17:45:12: INFO - Function get_data started.
+Jul-31-23 17:45:12: INFO - Function get_data took 2.9170041671022773e-06 seconds.

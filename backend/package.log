@@ -1,0 +1,8 @@
+Jul-18-23 18:16:11: INFO - *****Beginning Log*****
+Jul-18-23 18:16:12: INFO - Function setup started.
+Jul-18-23 18:16:12: INFO - Function setup took 0.06266491600035806 seconds.
+Jul-18-23 18:16:12: INFO - Function scrape started.
+Jul-18-23 18:16:12: WARNING - KEY ERROR: Zip Codes for ('Vernon Hills', 'IL') could not be found.
+Jul-18-23 18:16:13: INFO - Function scrape took 1.4369652080022206 seconds.
+Jul-18-23 18:16:13: INFO - Function get_data started.
+Jul-18-23 18:16:13: INFO - Function get_data took 2.083001163555309e-06 seconds.
