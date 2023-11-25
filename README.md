@@ -1,7 +1,7 @@
 # HouseFlipper
 
 ## Description
-TripVisor is a web app that allows users to explore surrounding cities with promising real estate.
+HouseFlipper is a web app that allows users to explore surrounding cities with promising real estate.
 
 Individuals who are looking to enter the real estate market may find it difficult to find valuable property in the area. Currently, users must decide which locations they would like to invest in, manually track and research them, calculate their expected value, and determine if its profitable. By integrating the entire 'flipping' experience into a single page, HouseFlipper allows users to save time in the exploration stage and streamline all aspects of their research process.
 
